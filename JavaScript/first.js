@@ -1,0 +1,15 @@
+name="shweta";
+console.log(name);
+age=21;
+salary=10000000.50;
+console.log(salary);
+x=null;
+console.log(x);
+y=undefined;
+console.log(y);
+radius=14;
+console.log(radius);
+isCorrect=false;
+console.log(isCorrect);
+name=25;
+console.log(name);
